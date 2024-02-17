@@ -19,8 +19,3 @@ Backend Developer
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamrandov&show_icons=true&locale=en" alt="kamrandov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamrandov&" alt="kamrandov" /></p>
-
-##![snake gif](https://github.com/KamranDov/KamranDov/blob/output/github-contribution-grid-snake.gif)
-
-
-
